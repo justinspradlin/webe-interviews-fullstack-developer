@@ -19,6 +19,15 @@ jest q1
 * Try to answer as many questions as you can.
 * Take your time to carefully read the instructions for each challenge.
 
+#### READY?
+
+Ready to begin? Open any `Clock App` on your PC or Mac and set a timer for `45 Minutes`.
+
+You can also use [This Google Link](https://www.google.com/search?q=timer+45+minutes&oq=timer#cobssid=s) to set a 45 minutes
+timer.
+
+---
+
 ### Good luck 🥳.
 
 ```
