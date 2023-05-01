@@ -2,9 +2,24 @@
 
 Welcome, This is a live coding session aimed to access you.
 
-Take your time to answer as many questions as you can.
+You have `45 minutes` to attempt `4 challenges`.
 
-Good luck.
+For each challenge, there is an accompanying `Jest Test Suite` to help test the correctness of your solutions.
+
+At any point, you can run the `test suite` for any challenge you are working on by running `jest {name of challenge}` in
+your terminal. For example; say you are working on the challenge in the `q1` folder, you can at anytime, run the test
+suite for `q1` by running:
+
+```bash
+jest q1
+```
+
+#### NOTES
+
+* Try to answer as many questions as you can.
+* Take your time to carefully read the instructions for each challenge.
+
+### Good luck 🥳.
 
 ```
 ______¶¶¶______________________________________________
