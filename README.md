@@ -2,7 +2,7 @@
 
 Welcome, This is a live coding session aimed to access you.
 
-You have `45 minutes` to attempt `4 challenges`.
+You have `50 minutes` to attempt `4 challenges`.
 
 For each challenge, there is an accompanying `Jest Test Suite` to help test the correctness of your solutions.
 
@@ -34,9 +34,9 @@ An example screenshot is as shown below:
 
 #### READY?
 
-Ready to begin? Open any `Clock App` on your PC or Mac and set a timer for `45 Minutes`.
+Ready to begin? Open any `Clock App` on your PC or Mac and set a timer for `50 Minutes`.
 
-You can also use [This Google Link](https://www.google.com/search?q=timer+45+minutes&oq=timer#cobssid=s) to set a 45
+You can also use [This Google Link](https://www.google.com/search?q=timer+50+minutes&oq=timer#cobssid=s) to set a 50
 minutes
 timer.
 
