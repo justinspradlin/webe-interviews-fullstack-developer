@@ -4,8 +4,8 @@ Welcome, This is a live coding session aimed to access you.
 
 You have `50 minutes` to attempt `4 challenges`.
 
-In the `src` folder, there are 5 folders, `q1`, `q2`, `q3`, `q4` and and `__tests__` folder. The `q` folders contain the 
-challenges while the `__tests__` folder contains the Jest Test Suites that would check your code.
+In the `src` folder, there are 5 folders, `q1`, `q2`, `q3`, `q4` and and `__test__` folder. The `q` folders contain the 
+challenges while the `__test__` folder contains the Jest Test Suites that would check your code.
 
 In each `q` folder, there are 2 files: a `README.md` file and an `index.ts` file. The `README.md` file contains the 
 instructions for the challenge and the `index.ts` file is where you would write your code.
